@@ -65,3 +65,7 @@ A comparison of YOLOv5 and the pose estimation approach (PEA)
 
 •	E04_PEA_RF_model.joblib
 
+
+## contact
+
+For any questions please contact vangilsjorrit@gmail.com
